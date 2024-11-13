@@ -1,8 +1,8 @@
-![로고](./picture/logo.png)
+![로고](./picture/blind_logo.png)
 
 <div style="text-align:center;">
 
-### [SSAF.SOUND 바로가기](https://ssafsound.com)
+### ~~[SSAF.SOUND 바로가기](https://ssafsound.com)~~ (🥲서버 운영 종료)
 
 <br>
 <br>
@@ -31,8 +31,8 @@
 
 ## 🏷️ PROJECT GOAL
 
-SSAFY를 희망하는 예비 싸피생부터 재학생 및 수료생들과 현재 교육을 받고 있는 싸피생들까지 ❗️
-[에브리타임](https://everytime.kr) 을 모티브로 삼아 SSAFY 생활 정보를 간접적으로 경험하고 공유할 수 있으며 '익명' 을 통해 적극적인 커뮤니케이션의 장이 될 수 있도록 기획했습니다.
+OOOOO를 희망하는 예비 싸피생부터 재학생 및 수료생들과 현재 교육을 받고 있는 재학생들까지 ❗️
+[에브리타임](https://everytime.kr) 을 모티브로 삼아 OOOOO 생활 정보를 간접적으로 경험하고 공유할 수 있으며 '익명' 을 통해 적극적인 커뮤니케이션의 장이 될 수 있도록 기획했습니다.
 
 <br><br>
 
