@@ -19,11 +19,7 @@
 
 ## 🙌🏻 Member
 
-
-|                                         Backend                                          |                                         Backend                                          |                                         Backend                                          |                                         Backend                                         |     |
-| :--------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------: | :-: |
-| <img src="https://avatars.githubusercontent.com/u/65756225?v=4" width=400px alt="현철"/> | <img src="https://avatars.githubusercontent.com/u/55014803?v=4" width=400px alt="한성"/> | <img src="https://avatars.githubusercontent.com/u/59381113?v=4" width=400px alt="용준"/> | <img src="https://avatars.githubusercontent.com/u/86272688?v=4" width=400px alt="태용"> |
-|                         [신현철](https://github.com/moonn6pence)                         |                          [김한성](https://github.com/khs960616)                          |                          [이용준](https://github.com/jjuny0310)                          |                          [김태용](https://github.com/YongsHub)                          |
+Blind 처리
 
 <br><br>
 
@@ -72,12 +68,6 @@ OOOOO를 희망하는 예비 싸피생부터 재학생 및 수료생들과 현�
 
 ## 🏷️ SSAF.SOUND TROUBLE SHOOTING
 
-[김한성 Fork Repository](https://github.com/khs960616/ssaf-sound-be)
-
-[신현철 Fork Repository](https://github.com/moonn6pence/ssaf-sound-be)
-
-[이용준 Fork Repository](https://github.com/jjuny0310/ssaf-sound-be)
-
-[김태용 Fork Repository](https://github.com/YongsHub/ssaf-sound-be)
+Blind 처리
 <br><br>
 </div>
